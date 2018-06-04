@@ -2,15 +2,6 @@
 
 
 
-http://derekeder.github.io/csv-to-html-table/
-
-
-
-
-
-
-git@github.com:derekeder/csv-to-html-table.git
-
 
 
 
